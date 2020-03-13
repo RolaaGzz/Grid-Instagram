@@ -1,0 +1,22 @@
+
+.carousel-inner active{
+    height: 90vh;
+}
+
+.carousel-item{
+    height: 90vh;
+}
+
+.Continuar {
+    color: #fff;
+}
+
+.lista img {
+   width: 1200px;
+   height: auto;
+}
+
+.footer {
+    color: #fff;
+    background: #222222;
+}
